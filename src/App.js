@@ -1,9 +1,9 @@
 import React, { Component } from 'react'
-
+import { Button } from 'antd'
 export default class App extends Component {
   render() {
     return (
-      <h1>App</h1>
+      <Button style={{ margin: '50px' }}>App</Button>
     )
   }
 }
