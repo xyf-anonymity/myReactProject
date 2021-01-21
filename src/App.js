@@ -3,8 +3,8 @@ import {Route,Redirect,Switch} from 'react-router-dom'
 // import { Button,Input} from 'antd'
 import 'antd/dist/antd.less'
 import './App.css'
-import Login from './pages/Login/Login.jsx'
-import Admin from './pages/Admin/Admin.jsx'
+import Login from './containers/Login/Login.jsx'
+import Admin from './containers/Admin/Admin.jsx'
 export default class App extends Component {
   render() {
     return (
