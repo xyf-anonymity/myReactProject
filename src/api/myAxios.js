@@ -3,7 +3,8 @@ import store from '../redux/store.js'
 import qs from 'querystring'
 import NProgress from 'nprogress'
 import { message } from 'antd'
-import {createDeleteUserInfoAction} from '../redux/actions/Login_action'
+import { createDeleteUserInfoAction } from '../redux/actions/Login_action'
+import {TOKEN_KEY} from '../config'
 import 'nprogress/nprogress.css'
 // import '@tanem/react-nprogress/dist/'
 const instance = axios.create({
@@ -17,7 +18,7 @@ instance.interceptors.request.use(config => {
     
     // 携带token进行验证
     let { token } = store.getState().userInfo
-    if (token)  headers.Authorization = 'xyf_project' + token
+    if (token)  headers.Authorization = TOKEN_KEY + token
     
     //若是post请求
     if (method.toLowerCase() === 'post') {

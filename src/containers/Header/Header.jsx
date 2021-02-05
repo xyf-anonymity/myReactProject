@@ -91,7 +91,7 @@ class Header extends Component {
 export default connect(
     state => ({
         username: state.userInfo.user.username,
-        title:state.title
+        title: state.title,
     }),
     {logOut : createDeleteUserInfoAction}
 )(Header)

@@ -38,7 +38,9 @@ class LeftNav extends Component {
     }
 
     saveUrlTitle = () => {
-        let key = this.props.location.pathname.split('/').reverse()[0]
+        let urlArr = this.props.location.pathname.split('/')
+        let key = urlArr.reverse()[0]
+        if( urlArr.indexOf('product') !== -1) key = 'product'
         if(key === 'admin') key = 'home'
         menuData.forEach((menuObj) => {
             if (menuObj.children instanceof Array) {
@@ -62,6 +64,7 @@ class LeftNav extends Component {
     render() {
         let pathArr = this.props.location.pathname.split('/')
         let key = pathArr.reverse()[0]
+        if( pathArr.indexOf('product') !== -1) key = 'product'
         if (key === 'admin') key = 'home'
         return (
             <div>

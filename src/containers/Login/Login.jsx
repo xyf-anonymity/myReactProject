@@ -8,6 +8,10 @@ import {reqLogin} from '../../api'
 import LOGO from '../../static/imgs/logo.png'
 import './css/login.css'
 const { Item } = Form
+message.config({
+    duration: 2,
+    maxCount: 1,
+  })
 
  class Login extends Component {
      

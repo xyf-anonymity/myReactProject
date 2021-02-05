@@ -1,14 +1,21 @@
 .admin {
+  position: relative;
   height: 100%;
   width: 100%;
 }
 .admin .admin_sider {
+  position: fixed;
+  height: 100%;
   color: white;
+}
+.admin .right_section {
+  margin-left: 200px;
 }
 .content {
   background-color: white;
   margin: 20px;
   margin-bottom: 0px;
+  height: 100%;
 }
 Footer {
   text-align: center;
