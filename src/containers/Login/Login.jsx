@@ -21,9 +21,9 @@ message.config({
         const pwdReg = /^\w+$/
         if (!value) {
             return Promise.reject('请输入您的密码') 
-        } else if (length <= 4) {
+        } else if (length < 4) {
             return Promise.reject('必须大于等于4位')
-        } else if (length >= 12) {
+        } else if (length > 12) {
             return  Promise.reject('必须小于等于12位')
         } else if (!pwdReg.test(value)) {
             return Promise.reject('必须是英文、数字或下划线组成')

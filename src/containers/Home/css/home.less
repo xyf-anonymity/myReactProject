@@ -1,0 +1,64 @@
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:bold);
+
+
+/* Global ------------------------------------------------------ */
+
+/* Wrapper ------------------------------------------------------ */
+.home {
+    margin-top: 100px;
+}
+
+
+#wrapper {
+    cursor: pointer;
+  position: relative;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Yanone Kaffeesatz", "Lucida Grande", Lucida, Verdana, sans-serif;
+  margin: 0 auto;
+  padding: 7em 0;
+//   border-radius: 4px;
+//   box-shadow: inset 0 -1px 0  hsla(0,0%,0%,.2), 0 21px 8px -12px rgba(0,0,0,.2);
+  perspective: 350;
+}
+
+#wrapper:focus {
+  outline: none;
+}
+
+
+#wrapper div {
+    cursor: pointer;
+    font-size: 3.5em;
+    margin: 0;
+    color: #1488c8;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    // text-shadow: rgba(0.5,.5,.5,0.3) 0 20px 80px;
+    transition: transform .5s linear; /* only WebKit because of performance */
+}
+
+
+/* Hover ------------------------------------------------------ */
+
+#wrapper:hover div {
+//   color: hsla(0,0%,0%,0);
+  transform: rotate(6.5deg) rotateX(28deg) skewX(-4deg);
+  transition: transform .5s linear; /* only WebKit because of performance */
+}
+
+#wrapper:hover div:nth-child(1) {
+  font-size: 3.5em;
+  text-shadow: #1488c8 0 0 10px, 
+    #fff 0 4px 3px, #ddd 0 9px 3px,  #ccc 0 12px 1px, 
+    rgba(0,0,0,0.2) 0 14px 5px, rgba(0,0,0,0.1) 0 20px 10px,
+    rgba(0,0,100,0.2) 0 15px 80px;
+  text-indent: 0.3em;
+}
+
+
+/* Middle ------------------------------------------------------ */
+
+#wrapper div::selection {
+  background-color: #1ca579;
+}

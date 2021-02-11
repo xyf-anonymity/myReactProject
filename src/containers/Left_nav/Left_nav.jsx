@@ -16,25 +16,39 @@ class LeftNav extends Component {
         this.props.saveTitle(title)
     }
 
+    //该函数接收一个菜单对象作为参数，判断是否经过角色授权，授权则返回真
+    hasAuth = (menuObj) => {
+        const { roleMenus, username } = this.props
+        if(username === 'admin') return true
+        if(roleMenus.length === 0) roleMenus.push('home')
+        if (menuObj.children instanceof Array) {
+            return menuObj.children.some((itemObj) => roleMenus.indexOf(itemObj.key) !== -1)
+        } else {
+            return roleMenus.find((itemStr) => itemStr === menuObj.key)
+        }
+    }
+
     createNavMenu = (menuArr) => {
-        return menuArr.map(menuObj => {
-            if (menuObj.children instanceof Array) {
-                return (
-                    <SubMenu key={menuObj.key} icon={<menuObj.icon />} title={menuObj.title}>
-                        {this.createNavMenu(menuObj.children)}
-                    </SubMenu>
-                ) 
-            } else {
-                let title = menuObj.title
-                return (
-                    <Item key={menuObj.key} icon={< menuObj.icon />} onClick={()=>{this.getTitle(title)}}>
-                        <NavLink to={menuObj.path}>
-                            {title}
-                        </NavLink>
-                    </Item>
-                )
-            }
-        })
+        return menuArr.map((menuObj) => {
+             if (this.hasAuth(menuObj)) {
+                if (menuObj.children instanceof Array) {
+                    return (
+                        <SubMenu key={menuObj.key} icon={<menuObj.icon />} title={menuObj.title}>
+                            {this.createNavMenu(menuObj.children)}
+                        </SubMenu>
+                    ) 
+                } else {
+                    let title = menuObj.title
+                    return (
+                        <Item key={menuObj.key} icon={< menuObj.icon />} onClick={()=>{this.getTitle(title)}}>
+                            <NavLink to={menuObj.path}>
+                                {title}
+                            </NavLink>
+                        </Item>
+                    )
+                }
+            } else return null
+         })
     }
 
     saveUrlTitle = () => {
@@ -88,7 +102,7 @@ class LeftNav extends Component {
 }
 
 export default connect(
-    state => ({}),
+    state => ({roleMenus:state.userInfo.user.role.menus,username:state.userInfo.user.username}),
     {
         saveTitle: createSaveTitleAction
     }

@@ -79,8 +79,6 @@ class Header extends Component {
                     </div>
                     <div className="bottom_right">
                         <span>{date}</span>
-                        <img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2723476239,2504378195&fm=26&gp=0.jpg" alt="天气图标"/>
-                        <span>多云 18~10 C°</span>
                     </div>
                 </div>
             </div>

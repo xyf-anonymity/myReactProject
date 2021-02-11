@@ -2,6 +2,7 @@
   width: 100%;
   height: 100%;
   background-image: url('../images/bg.jpg');
+  background-size: cover;
 }
 .bg header {
   display: flex;
@@ -17,7 +18,7 @@
   margin: 10px;
 }
 .bg header h1 {
-  line-height: 60px;
+  line-height: 55px;
   align-items: center;
   color: white;
   font-size: 30px;
@@ -36,5 +37,8 @@
 }
 .bg section div .login-form-button {
   width: 100% ;
+}
+.bg section h1 {
+  color: #1488c8;
 }
 /*# sourceMappingURL=./login.css.map */

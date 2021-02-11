@@ -118,7 +118,7 @@ export default class Product extends Component {
                 render: (prodInfo) => (
                     <div>
                         <Button
-                            onClick={() => {this.operateProdStatus(prodInfo)}}
+                            onClick={() => { this.operateProdStatus(prodInfo) }}
                             type={prodInfo.status === 1 ? "danger" : "primary"}
                         >
                             {prodInfo.status === 1 ? "下架" : "上架"}
