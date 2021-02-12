@@ -67,10 +67,10 @@ export default class User extends Component {
         let value = this.refs.form.getFieldsValue()  //获取新增用户的信息
         let { username, password, role_id } = value
         console.log(isUpdate,password)
-        if (isUpdate) password = true
         if(username !== undefined) username = username.trim()
         if(password !== undefined) password = password.trim()
-        if(role_id !== undefined) role_id = role_id.trim()
+        if (role_id !== undefined) role_id = role_id.trim()
+        if (isUpdate) password = true
         if (username && password && role_id) {
             roles.forEach((roleObj) => {
                 if(roleObj.name === value.role_id) value.role_id = roleObj._id
