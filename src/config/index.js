@@ -7,7 +7,7 @@ export const LOCATION = '中山'  //天气位置信息
 
 export const AK = 'FK9mkfdQsloEngodbFl4FeY3' //天气信息的API授权码
 
-export const TOKEN_KEY = 'atguigu_'
+export const TOKEN_KEY = 'xyf_product_system_'
 
 export const PAGE_NUMBER = 1 //请求商品列表时指定想请求第几页
 
