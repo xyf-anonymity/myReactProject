@@ -1,0 +1,70 @@
+{ 
+    "_id" : ObjectId("5dccd15af495734150be910e"), 
+    "name" : "智能手机", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dccd15ff495734150be910f"), 
+    "name" : "IT书籍", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dccd16ef495734150be9110"), 
+    "name" : "笔记本电脑", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dccd176f495734150be9111"), 
+    "name" : "台式电脑", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dccd189f495734150be9112"), 
+    "name" : "耳机音响", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dccd199f495734150be9113"), 
+    "name" : "女士护肤", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dccd1aef495734150be9114"), 
+    "name" : "奢华箱包", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dccd1b8f495734150be9115"), 
+    "name" : "商务服饰", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dccd1c6f495734150be9116"), 
+    "name" : "办公用品", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dccd1cdf495734150be9117"), 
+    "name" : "宠物用品", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dccd1e8f495734150be9118"), 
+    "name" : "汽车用品", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dccd1f4f495734150be9119"), 
+    "name" : "洗护用品", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dcd14b8b4441631746ee493"), 
+    "name" : "智能手表", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("601d3e6d286a4f2acc541158"), 
+    "name" : "飞机", 
+    "__v" : NumberInt(0)
+}

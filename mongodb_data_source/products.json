@@ -1,0 +1,209 @@
+{ 
+    "_id" : ObjectId("5dccd2dcf495734150be911a"), 
+    "status" : NumberInt(1), 
+    "imgs" : [
+        "image-1573704320547.jpg"
+    ], 
+    "name" : "华为 HUAWEI Mate 30", 
+    "desc" : " 麒麟990旗舰芯片4000万超感光徕卡影像双超级快充屏内指纹8G+128GB亮黑色4G全网通版", 
+    "price" : NumberInt(4299), 
+    "categoryId" : "5dccd15af495734150be910e", 
+    "detail" : "<p>机身颜色:星河银</p>\n<p>机身长度（mm）:160.8</p>\n<p>机身重量（g）:196克（含电池） 备注：实际重量依配置、制造工艺、测量方法的不同可能有所差异。</p>\n<p>机身材质工艺:其他</p>\n<p>机身宽度（mm）:76.1</p>\n<p>机身材质分类:金属边框；玻璃后盖</p>\n<p>机身厚度（mm）:8.4</p>\n<p>运营商标志或内容:无</p>\n", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dcce0f4b4441631746ee489"), 
+    "status" : NumberInt(2), 
+    "imgs" : [
+        "image-1573707959132.jpg"
+    ], 
+    "name" : "Apple iPhone 11 Pro Max", 
+    "desc" : "Apple iPhone 11 Pro Max (A2220) 256GB 银色 移动联通电信4G手机 双卡双待", 
+    "price" : NumberInt(10899), 
+    "categoryId" : "5dccd15af495734150be910e", 
+    "detail" : "<p><span style=\"color: rgb(153,153,153);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">机身颜色：金色</span></p>\n<p><span style=\"color: rgb(153,153,153);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">机身长度（mm）158</span></p>\n<p><span style=\"color: rgb(153,153,153);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">机身重量（g）226</span></p>\n<p><span style=\"color: rgb(153,153,153);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">机身材质工艺以官网信息为准机身宽度（mm）77.8</span></p>\n<p><span style=\"color: rgb(153,153,153);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">机身材质分类其他</span></p>\n<p><span style=\"color: rgb(153,153,153);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">机身厚度（mm）8.1</span></p>\n<p><span style=\"color: rgb(153,153,153);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">运营商标志或内容无</span>&nbsp;</p>\n", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dcce138b4441631746ee48a"), 
+    "status" : NumberInt(2), 
+    "imgs" : [
+        "image-1573708073801.jpg"
+    ], 
+    "name" : "小米CC9 Pro", 
+    "desc" : "1亿像素 五摄四闪 10倍混合光学变焦 5260mAh 骁龙730G 暗夜魅影 8GB+128GB 游戏智能拍照手机", 
+    "price" : NumberInt(3099), 
+    "categoryId" : "5dccd15af495734150be910e", 
+    "detail" : "<p><span style=\"color: rgb(153,153,153);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">机身颜色暗夜魅影机身长度（mm）157.8mm机身重量（g）208g机身材质工艺其他屏占比其他机身宽度（mm）74.2mm机身材质分类玻璃后盖机身厚度（mm）9.67mm输入方式触控运营商标志或内容无</span>&nbsp;</p>\n", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dcce185b4441631746ee48b"), 
+    "status" : NumberInt(2), 
+    "imgs" : [
+        "image-1573708145458.jpg"
+    ], 
+    "name" : "图解HTTP", 
+    "desc" : "图解HTTP Web开发工程师参考书目 172张图详解HTTP协议 涉及web安全及新技术动向 HTTP经典指南 ", 
+    "price" : 39.1, 
+    "categoryId" : "5dccd15ff495734150be910f", 
+    "detail" : "<p><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 14px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">《图解HTTP》的特色为在讲解的同时，辅以大量生动形象的通信图例，更好地帮助读者深刻理解HTTP通信过程中客户端与服务器之间的交互情况。读者可通过《图灵程序设计丛书：图解HTTP》快速了解并掌握HTTP协议的基础，前端工程师分析抓包数据，后端工程师实现REST API、实现自己的HTTP服务器等过程中所需的HTTP相关知识点本书均有介绍。</span></p>\n", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dcce1d5b4441631746ee48c"), 
+    "status" : NumberInt(2), 
+    "imgs" : [
+        "image-1573708231707.jpg"
+    ], 
+    "name" : "路易威登 LV女包新款SPEEDY系列", 
+    "desc" : "老花单肩手提波士顿包 M41113 SPEEDY 25", 
+    "price" : NumberInt(11090), 
+    "categoryId" : "5dccd1aef495734150be9114", 
+    "detail" : "<p style=\"text-align:start;\"><span style=\"font-size: medium;font-family: LouisVuitton-N, Asian, sans-serif;\"><strong>闪亮的金色金属配件和挂锁</strong></span><br><span style=\"font-size: medium;font-family: LouisVuitton-N, Asian, sans-serif;\"><strong>- 可调节肩带，可手提、斜背或肩背</strong></span><br><span style=\"font-size: medium;font-family: LouisVuitton-N, Asian, sans-serif;\"><strong>- 天然牛皮圆形手柄和饰边</strong></span><br><span style=\"font-size: medium;font-family: LouisVuitton-N, Asian, sans-serif;\"><strong>- 可锁的双拉链开合</strong></span><br><span style=\"font-size: medium;font-family: LouisVuitton-N, Asian, sans-serif;\"><strong>- 内袋</strong></span><br><span style=\"font-size: medium;font-family: LouisVuitton-N, Asian, sans-serif;\"><strong>- 可挂钥匙和配饰的D形环</strong></span><br><span style=\"font-size: medium;font-family: LouisVuitton-N, Asian, sans-serif;\"><strong>- 柔软的织物内衬</strong></span></p>\n<p style=\"text-align:start;\"><span style=\"color: rgb(32,33,32);background-color: rgb(255,255,255);font-size: 14px;font-family: LouisVuitton-N-Light, Asian, sans-serif;\">以 Monogram 帆布制成的 Speedy 40 手袋采用了传统的路易威登设计风格。 奢华的天然牛皮饰边与多种携带方式为该包平添一份时尚之感。</span>&nbsp;</p>\n", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dcce229b4441631746ee48d"), 
+    "status" : NumberInt(1), 
+    "imgs" : [
+        "image-1573708312787.jpg"
+    ], 
+    "name" : "SK-II神仙水230ml", 
+    "desc" : "护肤精华套装化妆品礼盒（赠清莹露爽肤水 +氨基酸洗面奶）SK2精华液 嫩滑提亮 均匀肤色", 
+    "price" : NumberInt(1540), 
+    "categoryId" : "5dccd199f495734150be9113", 
+    "detail" : "<p><span style=\"color: rgb(0,0,0);background-color: rgb(255,255,255);font-size: 16px;\"><strong>产品包装有外盒是否为特殊用途化妆品否功效补水；保湿净含量（mL/g）230ml适合肤质任何肤质产品产地日本保质期（年）3年</strong></span><span style=\"color: rgb(0,0,0);\"><strong> </strong></span></p>\n", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dcce286b4441631746ee48e"), 
+    "status" : NumberInt(2), 
+    "imgs" : [
+        "image-1573708400897.jpg"
+    ], 
+    "name" : "索尼（SONY）WH-1000XM3", 
+    "desc" : "高解析度无线蓝牙降噪 头戴式耳机（触控面板 智能降噪 长久续航）黑色", 
+    "price" : NumberInt(1899), 
+    "categoryId" : "5dccd189f495734150be9112", 
+    "detail" : "<p><span style=\"color: rgb(153,153,153);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">驱动单元类型/直径40mm音频接口无接口类型蓝牙线控功能有线控重量(kg)约0.255kg灵敏度104 dB/mW（在本机开启的情况下通过耳机连接线连接时）</span>&nbsp;</p>\n", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dcce306b4441631746ee48f"), 
+    "status" : NumberInt(1), 
+    "imgs" : [
+        "image-1573708515745.jpg"
+    ], 
+    "name" : "华为(HUAWEI)MateBook X Pro 2019款", 
+    "desc" : "13.9英寸全面屏轻薄笔记本电脑(i7-8565U 8+512GB 3K) 灰", 
+    "price" : NumberInt(9699), 
+    "categoryId" : "5dccd16ef495734150be9110", 
+    "detail" : "<p><span style=\"color: rgb(153,153,153);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">HUAWEI MateBook X Pro主机 x 1 HUAWEI USB-C 电源适配器65W x 1 电源适配器线（USB-C）x 1 快速入门 x 1 保修卡 x 1</span>&nbsp;</p>\n", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dcd13bfb4441631746ee490"), 
+    "status" : NumberInt(2), 
+    "imgs" : [
+        "image-1573720971869.jpg"
+    ], 
+    "name" : "华为 HUAWEI Mate 30 Pro 5G", 
+    "desc" : "麒麟990 OLED环幕屏双4000万徕卡电影四摄8GB+512GB亮黑色5G全网通版", 
+    "price" : NumberInt(7899), 
+    "categoryId" : "5dccd15af495734150be910e", 
+    "detail" : "<ul>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">商品名称：华为Mate 30 Pro 5G</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">商品编号：100009177406</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">商品毛重：0.545kg</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">商品产地：中国大陆</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">CPU型号：麒麟990</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">运行内存：8GB</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">机身存储：其它存储</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">存储卡：NM存储卡</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">摄像头数量：后置四摄</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">后摄主摄像素：4000万像素</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">前摄主摄像素：3200万像素</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">主屏幕尺寸（英寸）：6.53英寸</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">分辨率：其它分辨率</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">屏幕比例：其它屏幕比例</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">屏幕前摄组合：刘海屏</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">电池容量（mAh）：4500mAh（典型值）</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">充电器：5V/2A；9V/2A；10V/4A</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">机身颜色：亮黑色</span>&nbsp;</li>\n</ul>\n", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dcd1419b4441631746ee491"), 
+    "status" : NumberInt(2), 
+    "imgs" : [
+        "image-1573721107555.jpg"
+    ], 
+    "name" : "华为荣耀20 李现同款", 
+    "desc" : "4800万超广角AI四摄 3200W美颜自拍 麒麟Kirin980全网通版8GB+128GB 幻影蓝 全面屏手机", 
+    "price" : NumberInt(2999), 
+    "categoryId" : "5dccd15af495734150be910e", 
+    "detail" : "<ul>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 16px;\">4800万超广角AI四摄 3200W美颜自拍 麒麟Kirin980全网通版8GB+128GB 幻影蓝 全面屏手机</span>&nbsp;</li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 16px;\">4800万超广角AI四摄 3200W美颜自拍 麒麟Kirin980全网通版8GB+128GB 幻影蓝 全面屏手机</span>&nbsp;</li>\n</ul>\n", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dcd146bb4441631746ee492"), 
+    "status" : NumberInt(1), 
+    "imgs" : [
+        "image-1573721184705.jpg"
+    ], 
+    "name" : "华为 HUAWEI P30 Pro", 
+    "desc" : "超感光徕卡四摄10倍混合变焦麒麟980芯片屏内指纹 8GB+128GB极光色全网通版双4G手机", 
+    "price" : NumberInt(4988), 
+    "categoryId" : "5dccd15af495734150be910e", 
+    "detail" : "<ul>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">商品名称：华为P30 Pro</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">商品编号：100002795959</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">商品毛重：0.53kg</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">商品产地：中国大陆</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">CPU型号：麒麟980</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">运行内存：8GB</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">机身存储：128GB</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">存储卡：NM存储卡</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">摄像头数量：后置四摄</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">后摄主摄像素：4000万像素</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">前摄主摄像素：3200万像素</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">拍照特点：景深，后置四摄，红外，微距，光学变焦，光学防抖</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">主屏幕尺寸（英寸）：6.47英寸</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">分辨率：全高清FHD+</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">屏幕比例：其它屏幕比例</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">屏幕前摄组合：水滴屏</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">电池容量（mAh）：4200mAh（典型值）</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">充电器：10V/4A</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">机身颜色：极光色</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">热点：人脸识别，快速充电，无线充电，液冷散热，高倍率变焦，屏幕指纹，防水防尘，NFC，曲面屏</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">屏占比：≥90%</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;font-family: tahoma, arial, \"Microsoft YaHei\", \"Hiragino Sans GB\", u5b8bu4f53, sans-serif;\">操作系统：Android(安卓)</span>&nbsp;</li>\n</ul>\n", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dcd14dcb4441631746ee494"), 
+    "status" : NumberInt(1), 
+    "imgs" : [
+        "image-1573721295472.jpg"
+    ], 
+    "name" : "华为HUAWEI WATCH GT运动版", 
+    "desc" : "华为手表 (两周续航+户外运动手表+实时心率+高清彩屏+睡眠/压力监测+NFC支付)", 
+    "price" : NumberInt(1288), 
+    "categoryId" : "5dcd14b8b4441631746ee493", 
+    "detail" : "<ul>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">商品名称：华为WATCH GT 运动款</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">商品编号：100000710048</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">商品毛重：360.00g</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">商品产地：广东深圳</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">机身厚度：10-12mm</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">屏幕大小：40mm以上</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">分类：运动户外手表</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">屏幕显示：彩色触屏</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">防水等级：50米及以上防水</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">运动模式识别：10-15种</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">通话功能：无</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">续航时间：8-15天</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">功能：GPS定位，NFC支付，久坐提醒，睡眠监测，消息提醒，心率监测，自定义表盘，来电提醒</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">适用人群：男士，女士，老人</span>&nbsp;</li>\n</ul>\n", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dd647013199336fa807329a"), 
+    "status" : NumberInt(2), 
+    "imgs" : [
+        "image-1574326532593.jpg"
+    ], 
+    "categoryId" : "5dccd16ef495734150be9110", 
+    "name" : "Apple 2019新品 MacBook Pro 15.4", 
+    "desc" : "Apple 2019新品 MacBook Pro 15.4【带触控栏】九代八核i9 16G 512G 深空灰 笔记本电脑 轻薄本 MV912CH/A", 
+    "price" : NumberInt(19258), 
+    "detail" : "<ul>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">商品名称：AppleMacBook Pro 15.4</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">商品编号：100003520925</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">商品毛重：3.24kg</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">商品产地：中国大陆</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">系统：MAC</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">显卡类别：集成显卡</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">屏幕尺寸：15.4英寸</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">硬盘容量：其他</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">待机时长：9小时以上</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">色系：灰色系</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">色域：其他</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">处理器：其他</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">特性：背光键盘</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">系列：其他</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">显卡型号：其他</span></li>\n<li><span style=\"color: rgb(102,102,102);background-color: rgb(255,255,255);font-size: 12px;\">分类：常规笔记本，其它</span></li>\n</ul>\n", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("601d350f286a4f2acc541156"), 
+    "status" : NumberInt(2), 
+    "imgs" : [
+        "image-1612526799398.png"
+    ], 
+    "name" : "华硕天选笔记本", 
+    "desc" : "CPU: 锐龙4800h, 显卡：GTX1066", 
+    "price" : NumberInt(7399), 
+    "categoryId" : "5dccd16ef495734150be9110", 
+    "detail" : "<ul>\n<li><span style=\"color: rgb(84,172,210);font-size: 16px;\"><strong>一台高性能，高颜值,高续航的游戏本</strong></span></li>\n</ul>\n", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("601d3f08286a4f2acc541159"), 
+    "status" : NumberInt(2), 
+    "imgs" : [
+        "image-1612529293566.jpg"
+    ], 
+    "name" : "小米9", 
+    "desc" : "骁龙855", 
+    "price" : NumberInt(3799), 
+    "categoryId" : "5dccd15af495734150be910e", 
+    "detail" : "<ul>\n<li style=\"text-align:justify;\"><span style=\"background-color: rgb(204,204,204);font-size: 18px;font-family: Times New Roman;\"><strong>高性能的小米第九代旗舰机，4800万像素索尼IMX586摄像头😎</strong></span></li>\n</ul>\n", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("601d4019286a4f2acc54115a"), 
+    "status" : NumberInt(1), 
+    "imgs" : [
+        "image-1612529574615.jpg", 
+        "image-1612529577634.jpg"
+    ], 
+    "name" : "歼二十", 
+    "desc" : "中国最先进的第五代歼击机，世界先进的隐形战斗机", 
+    "price" : NumberInt(99999999), 
+    "categoryId" : "601d3e6d286a4f2acc541158", 
+    "detail" : "<ul>\n<li><span style=\"color: rgb(71,85,119);font-size: 24px;\"><strong>😎吊打美国F22猛禽和F35，</strong></span><span style=\"color: rgb(226,80,65);font-size: 24px;\"><strong>强无敌</strong></span><span style=\"color: rgb(71,85,119);font-size: 24px;\"><strong>的隐形战斗机😎</strong></span></li>\n</ul>\n", 
+    "__v" : NumberInt(0)
+}

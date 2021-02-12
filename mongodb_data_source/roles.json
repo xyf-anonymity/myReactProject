@@ -1,0 +1,62 @@
+{ 
+    "_id" : ObjectId("6024b508e58a0a45e0d80f5a"), 
+    "menus" : [
+        "home", 
+        "prod_about", 
+        "category", 
+        "product"
+    ], 
+    "name" : "商品管理员", 
+    "create_time" : 1613018376685.0, 
+    "__v" : NumberInt(0), 
+    "auth_time" : 1613018433437.0, 
+    "auth_name" : "admin"
+}
+{ 
+    "_id" : ObjectId("6024b530e58a0a45e0d80f5b"), 
+    "menus" : [
+        "home", 
+        "charts", 
+        "bar", 
+        "line", 
+        "pie"
+    ], 
+    "name" : "图表管理员", 
+    "create_time" : 1613018416443.0, 
+    "__v" : NumberInt(0), 
+    "auth_time" : 1613032235932.0, 
+    "auth_name" : "admin"
+}
+{ 
+    "_id" : ObjectId("6024b557e58a0a45e0d80f5c"), 
+    "menus" : [
+        "home", 
+        "prod_about", 
+        "category", 
+        "product", 
+        "user", 
+        "role", 
+        "charts", 
+        "bar", 
+        "line", 
+        "pie"
+    ], 
+    "name" : "超级管理员", 
+    "create_time" : 1613018455757.0, 
+    "__v" : NumberInt(0), 
+    "auth_time" : 1613040749003.0, 
+    "auth_name" : "admin"
+}
+{ 
+    "_id" : ObjectId("6024b576e58a0a45e0d80f5d"), 
+    "menus" : [
+        "home", 
+        "role", 
+        "user"
+    ], 
+    "name" : "人事管理员", 
+    "create_time" : 1613018486282.0, 
+    "__v" : NumberInt(0), 
+    "auth_time" : 1613018491699.0, 
+    "auth_name" : "admin"
+}

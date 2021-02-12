@@ -1,0 +1,47 @@
+{ 
+    "_id" : ObjectId("600461f0de8dc35cdc837146"), 
+    "username" : "admin", 
+    "password" : "21232f297a57a5a743894a0e4a801fc3", 
+    "create_time" : 1610899952930.0, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6024b5e9e58a0a45e0d80f5e"), 
+    "username" : "stark", 
+    "password" : "2fbb71b04b02738300427866d6e3181a", 
+    "phone" : "13192151131", 
+    "email" : "stark@qq.com", 
+    "role_id" : "6024b576e58a0a45e0d80f5d", 
+    "create_time" : 1613018601290.0, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6024b610e58a0a45e0d80f5f"), 
+    "username" : "zhanshan", 
+    "phone" : "13192151132", 
+    "email" : "zhanshan@qq.com", 
+    "role_id" : "6024b508e58a0a45e0d80f5a", 
+    "password" : "f932a29df71c1e4b3d5d58ca10346a0f", 
+    "create_time" : 1613018640047.0, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6024b62ae58a0a45e0d80f60"), 
+    "username" : "lisi", 
+    "phone" : "13192151133", 
+    "email" : "lisi@qq.com", 
+    "role_id" : "6024b530e58a0a45e0d80f5b", 
+    "password" : "dc3a8f1670d65bea69b7b65048a0ac40", 
+    "create_time" : 1613018666998.0, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6024b683e58a0a45e0d80f61"), 
+    "username" : "faker", 
+    "password" : "619dea94b332475cc6271c4db2511f73", 
+    "phone" : "13192151135", 
+    "email" : "faker@qq.com", 
+    "role_id" : "6024b557e58a0a45e0d80f5c", 
+    "create_time" : 1613018755175.0, 
+    "__v" : NumberInt(0)
+}
