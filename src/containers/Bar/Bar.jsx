@@ -24,7 +24,7 @@ export default class Bar extends Component {
                     }
                 },
                 legend: {
-                    data: ['蒸发量', '降水量', '平均温度']
+                    data: ['总销售额', '总利润']
                 },
                 xAxis: [
                     {
@@ -59,12 +59,12 @@ export default class Bar extends Component {
                 ],
                 series: [
                     {
-                        name: '蒸发量',
+                        name: '总销售额',
                         type: 'bar',
                         data: [4560, 4230, 3950, 3560, 4123, 4569, 3658, 4569, 3921, 3895, 4756, 4555]
                     },
                     {
-                        name: '平均温度',
+                        name: '总利润',
                         type: 'line',
                         yAxisIndex: 1,
                         data: [1123, 745, 778, 637, 874, 913, 795, 1320, 899, 778, 1345, 1235]
